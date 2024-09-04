@@ -22,3 +22,5 @@ git branch new_branch_name -> creates new branch
 git checkout new_branch_name -> this command helps us in switching the branch
 
 git merge new_branch_name (being in the main branch) -> merge the new branch in main branch
+
+fork and pull request for adding the new things or updating the things with the repository owners permissions.
