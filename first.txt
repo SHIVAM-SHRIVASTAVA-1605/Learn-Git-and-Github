@@ -3,6 +3,7 @@ git add . -> to add all files in the current directory
 or
 git add particular_file_name -> to insert that particular file.
 git status -> checks the status of git
+git commit -m "message" -> to commit the changes with a message
 git log -> shows the all log of the current repository
 git diff particular_file_name -> checks what changes made from the last time
 git checkout particular_file_name -> revert the last changes
