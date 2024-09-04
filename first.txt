@@ -12,3 +12,10 @@ git branch -M main -> this command rename the branch name to main
 git push -u remote_name branch_name -> this command pushes the local repository to the remote repository
 
 git rm --cached -r . -> to remove all the files from the local repository(git staging area)
+.gitignore -> this is a file used to hide the data which developer don't want to show in their repository
+
+git clone url_of_the_remote_repository -> used for cloning the remote repository in you local system
+
+git branch -> shows what branches we have in our repository
+git branch new_branch_name -> creates new branch
+git checkout new_branch_name -> this command helps us in switching the branch
