@@ -20,3 +20,5 @@ git clone url_of_the_remote_repository -> used for cloning the remote repository
 git branch -> shows what branches we have in our repository
 git branch new_branch_name -> creates new branch
 git checkout new_branch_name -> this command helps us in switching the branch
+
+git merge new_branch_name (being in the main branch) -> merge the new branch in main branch
