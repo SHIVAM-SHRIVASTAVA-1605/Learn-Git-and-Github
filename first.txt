@@ -1,1 +1,14 @@
-This is my first file.
+git init -> to initate the git
+git add . -> to add all files in the current directory
+or
+git add particular_file_name -> to insert that particular file.
+git status -> checks the status of git
+git log -> shows the all log of the current repository
+git diff particular_file_name -> checks what changes made from the last time
+git checkout particular_file_name -> revert the last changes
+
+git remote add name_of_the_remote(origin) url_of_the_remote_repository -> connects the local repository to the remote repository
+git branch -M main -> this command rename the branch name to main
+git push -u remote_name branch_name -> this command pushes the local repository to the remote repository
+
+git rm --cached -r . -> to remove all the files from the local repository(git staging area)
